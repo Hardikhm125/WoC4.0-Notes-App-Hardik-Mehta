@@ -1,0 +1,39 @@
+
+body
+{
+   background-color: black;
+}
+.heading
+{
+    background-image: linear-gradient(chocolate,orange);
+    font-size: larger; color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: 1.5cm;
+}
+.list
+{   margin-left: 60px; margin-top: 70px;
+    background-color: honeydew;
+    border-style:solid; color:black;
+    box-sizing:border-box;
+    width:30%;
+    border-radius: 10px;
+}
+.title{ 
+    background-image:linear-gradient(brown,chocolate);
+    font-size: 1.5cm;font-style:oblique;
+    font-family:cursive;
+    text-align: center;
+}
+.item{
+    font-size:1cm;
+    font-style: italic;color:  black;
+    padding-left: 20px; padding-top: 30px;
+    text-align: left;
+    
+    }
+.buttons{
+    text-align: center;
+    word-spacing: 1cm;
+    padding-bottom: 1cm;
+}
